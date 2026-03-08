@@ -1,0 +1,8 @@
+bearer.token
+config.toml
+gateway.json
+logs/
+memory/
+sessions/
+*.log
+*.backup_*
